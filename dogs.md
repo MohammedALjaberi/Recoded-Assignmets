@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. German Shepherds
 2. Bulldogs
 3. Samoyeds
@@ -6,3 +7,6 @@
 6. Poodles
 7. Chihuahua
 8. Alaskan Malamute
+=======
+hgi
+>>>>>>> new-dog
